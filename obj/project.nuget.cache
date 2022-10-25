@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lk6g4jSCQwN6nAaxunLrowCQDn7c1bM0ob46QqA5RDLk7wdoXE/gG4/uWywlXsY4g0Qyh8UChYw8ejLdumYASQ==",
+  "success": true,
+  "projectFilePath": "/Users/arelymartinez/Desktop/homeWork/MartinezAGreaterOrLessThan.EndPoint/MartinezAGreaterOrLessThan.EndPoint.csproj",
+  "expectedPackageFiles": [
+    "/Users/arelymartinez/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/arelymartinez/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/arelymartinez/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/arelymartinez/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/arelymartinez/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/arelymartinez/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
